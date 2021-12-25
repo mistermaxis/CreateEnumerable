@@ -1,24 +1,31 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Create our own Enumerable
 
-# Create an enumerable
+## Prerequisites
 
-> Create an enumerable to run on a list class object.
+Ruby >= 3.0.0
 
-Additional description about the project and its features.
+## Getting Started
 
-## Built With
-
-- Ruby
+- Run git clone on this project at the desired directory:
+   ```
+   git clone https://github.com/mistermaxis/CreateEnumerable.git
+   ```
+- Go to the cloned directory with `cd CreateEnumerable`
+- With Ruby installed in your environment, you can just run `ruby MyEnumerable.rb` to see the result
 
 ## Authors
 
-👤 **Maximiliano Diaz**
-
-- GitHub: [@mistermaxis](https://github.com/mistermaxis)
-
 👤 **Zain Sadaqat**
 
-- GitHub: [@githubhandle](https://github.com/https://github.com/zainsadaqat)
+- GitHub: [![@zainsadaqat](https://img.shields.io/github/followers/zainsadaqat?color=lightgray&style=plastic&labelColor=blue)](https://github.com/iammouaz)
+- Twitter: [![@zain_sadaqat](https://img.shields.io/twitter/follow/zain_sadaqat?style=plastic&labelColor=blue)](https://www.twitter.com/MoazMulki1/)
+- LinkedIn: [![@zain-sadaqat](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/zain-sadaqat/)
+
+👤 **Mexis**
+
+- GitHub: [![@zainsadaqat](https://img.shields.io/github/followers/zainsadaqat?color=lightgray&style=plastic&labelColor=blue)](https://github.com/iammouaz)
+- Twitter: [![@zain_sadaqat](https://img.shields.io/twitter/follow/zain_sadaqat?style=plastic&labelColor=blue)](https://www.twitter.com/MoazMulki1/)
+- LinkedIn: [![@zain-sadaqat](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/zain-sadaqat/)
 
 ## 🤝 Contributing
 
@@ -39,3 +46,10 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
+- Microverse
+
+## 📝 License
+
+This project has MIT License.
+
